@@ -1,60 +1,71 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="4WECAxRBAFP2eX4Kcjxi">
-    <mxGraphModel dx="1562" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="887" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="evOOQR9RpooHa6UH3FHH-2" value="" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.wifi_router;" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="160" height="160.32" as="geometry" />
+        <mxCell id="evOOQR9RpooHa6UH3FHH-2" value="" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.wifi_router;" parent="1" vertex="1">
+          <mxGeometry x="350.11" y="80" width="109.78" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="evOOQR9RpooHa6UH3FHH-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="250" as="sourcePoint" />
-            <mxPoint x="160" y="340" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="160" y="250" />
-              <mxPoint x="160" y="290" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="evOOQR9RpooHa6UH3FHH-4" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="325" y="270" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="evOOQR9RpooHa6UH3FHH-4" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="80" y="360" width="160" height="160" as="geometry" />
+        <mxCell id="evOOQR9RpooHa6UH3FHH-5" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" parent="1" vertex="1">
+          <mxGeometry x="100" y="591.23" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="evOOQR9RpooHa6UH3FHH-5" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
-          <mxGeometry x="100" y="570" width="100" height="70" as="geometry" />
+        <mxCell id="evOOQR9RpooHa6UH3FHH-7" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" parent="1" vertex="1">
+          <mxGeometry x="670" y="570" width="82.98" height="112.46" as="geometry" />
         </mxCell>
-        <mxCell id="evOOQR9RpooHa6UH3FHH-6" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.printer;" vertex="1" parent="1">
-          <mxGeometry x="300" y="555" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="evOOQR9RpooHa6UH3FHH-7" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
-          <mxGeometry x="490" y="537.54" width="82.98" height="112.46" as="geometry" />
-        </mxCell>
-        <mxCell id="evOOQR9RpooHa6UH3FHH-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="evOOQR9RpooHa6UH3FHH-4">
+        <mxCell id="evOOQR9RpooHa6UH3FHH-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="evOOQR9RpooHa6UH3FHH-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="135" y="537.54" as="sourcePoint" />
-            <mxPoint x="150" y="560" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="evOOQR9RpooHa6UH3FHH-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="480" as="sourcePoint" />
-            <mxPoint x="330" y="550" as="targetPoint" />
+            <mxPoint x="160" y="580" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="310" y="510" />
+              <mxPoint x="160" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="evOOQR9RpooHa6UH3FHH-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="evOOQR9RpooHa6UH3FHH-7">
+        <mxCell id="evOOQR9RpooHa6UH3FHH-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="420" as="sourcePoint" />
-            <mxPoint x="450" y="410" as="targetPoint" />
+            <mxPoint x="420" y="430" as="sourcePoint" />
+            <mxPoint x="420" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="540" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="evOOQR9RpooHa6UH3FHH-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="evOOQR9RpooHa6UH3FHH-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="evOOQR9RpooHa6UH3FHH-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="410" as="sourcePoint" />
-            <mxPoint x="720" y="360" as="targetPoint" />
+            <mxPoint x="260" y="430" as="sourcePoint" />
+            <mxPoint x="450" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="430" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mtsdEgT7k7U-M_AiUWt0-2" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_Wireless.svg;" vertex="1" parent="1">
+          <mxGeometry x="381" y="591.23" width="87.34" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="mtsdEgT7k7U-M_AiUWt0-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="200" as="sourcePoint" />
+            <mxPoint x="400" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtsdEgT7k7U-M_AiUWt0-4" value="&lt;h2&gt;Router&lt;/h2&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="140" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mtsdEgT7k7U-M_AiUWt0-5" value="&lt;h2&gt;Switch&lt;/h2&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="335" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mtsdEgT7k7U-M_AiUWt0-6" value="&lt;h2&gt;&lt;span style=&quot;font-size: 14px; text-align: left; background-color: light-dark(rgb(255, 255, 255), rgb(237, 237, 237));&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Administration Subnet&lt;/font&gt;&lt;/span&gt;&lt;/h2&gt;" style="text;strokeColor=none;align=center;fillColor=default;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mtsdEgT7k7U-M_AiUWt0-7" value="&lt;h2&gt;&lt;span style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;, Helvetica, &amp;quot;Meiryo UI&amp;quot;, &amp;quot;Malgun Gothic&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Trebuchet MS&amp;quot;, Monaco, monospace, Tahoma, STXihei, 华文细黑, STHeiti, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;wenquanyi micro hei&amp;quot;, FreeSans, Arimo, Arial, SimSun, 宋体, Heiti, 黑体, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Sales Subnet&lt;/font&gt;&lt;/span&gt;&lt;/h2&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="394.67" y="700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mtsdEgT7k7U-M_AiUWt0-8" value="&lt;h2&gt;&lt;span style=&quot;font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;IT Subnet&lt;/font&gt;&lt;/span&gt;&lt;/h2&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="681.49" y="700" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
